@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\s171627\Desktop\craig git\WarmUps\Excersie_6\main.cpp(9,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Excersie_6.vcxproj -> C:\Users\s171627\Desktop\craig git\WarmUps\x64\Debug\Excersie_6.exe
