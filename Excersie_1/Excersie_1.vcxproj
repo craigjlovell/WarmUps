@@ -23,6 +23,7 @@
     <ProjectGuid>{BC59131D-58ED-43B1-8039-10C9085A9817}</ProjectGuid>
     <RootNamespace>Excersie1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>AIE_1_Explode_String</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

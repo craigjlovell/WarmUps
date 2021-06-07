@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Excersie_2", "Excersie_2\Excersie_2.vcxproj", "{BEFC0235-9EFA-4603-9BBB-39F50219B4BD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AIE_2_Find_the_Odd_Integer", "Excersie_2\Excersie_2.vcxproj", "{BEFC0235-9EFA-4603-9BBB-39F50219B4BD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Excersie_3", "Excersie_3\Excersie_3.vcxproj", "{42C160F3-0658-47E9-8D9A-775B33D511EF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AIE_3_Letters_Shared_between_Two_Word", "Excersie_3\Excersie_3.vcxproj", "{42C160F3-0658-47E9-8D9A-775B33D511EF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Excersie_1", "Excersie_1\Excersie_1.vcxproj", "{BC59131D-58ED-43B1-8039-10C9085A9817}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AIE_1_Explode_String", "Excersie_1\Excersie_1.vcxproj", "{BC59131D-58ED-43B1-8039-10C9085A9817}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Excersie_4", "Excersie_4\Excersie_4.vcxproj", "{97CFFC98-A1D5-4785-85EA-9C19B502268B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AIE_4_Is_Valid_Hex", "Excersie_4\Excersie_4.vcxproj", "{97CFFC98-A1D5-4785-85EA-9C19B502268B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Excersie_5", "Excersie_5\Excersie_5.vcxproj", "{CA5CF7AB-BC26-4B02-9787-044B065AB479}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AIE_5_Mini_Sodoku", "Excersie_5\Excersie_5.vcxproj", "{CA5CF7AB-BC26-4B02-9787-044B065AB479}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Excersie_6", "Excersie_6\Excersie_6.vcxproj", "{036FFF36-95CD-489A-AAEE-EEAFF006210A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AIE_6_Letter_Shifting", "Excersie_6\Excersie_6.vcxproj", "{036FFF36-95CD-489A-AAEE-EEAFF006210A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Excersie_6B", "Excersie_6B\Excersie_6B.vcxproj", "{D39CC25D-915A-47EF-AA99-2F7025062DB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AIE_7_Sum_of_Missing_Numbers", "Excersie_7\Excersie_7.vcxproj", "{5D2D4FFB-F3E8-4F46-A872-9D485CFF2611}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{D39CC25D-915A-47EF-AA99-2F7025062DB8}.Release|x64.Build.0 = Release|x64
 		{D39CC25D-915A-47EF-AA99-2F7025062DB8}.Release|x86.ActiveCfg = Release|Win32
 		{D39CC25D-915A-47EF-AA99-2F7025062DB8}.Release|x86.Build.0 = Release|Win32
+		{5D2D4FFB-F3E8-4F46-A872-9D485CFF2611}.Debug|x64.ActiveCfg = Debug|x64
+		{5D2D4FFB-F3E8-4F46-A872-9D485CFF2611}.Debug|x64.Build.0 = Debug|x64
+		{5D2D4FFB-F3E8-4F46-A872-9D485CFF2611}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D2D4FFB-F3E8-4F46-A872-9D485CFF2611}.Debug|x86.Build.0 = Debug|Win32
+		{5D2D4FFB-F3E8-4F46-A872-9D485CFF2611}.Release|x64.ActiveCfg = Release|x64
+		{5D2D4FFB-F3E8-4F46-A872-9D485CFF2611}.Release|x64.Build.0 = Release|x64
+		{5D2D4FFB-F3E8-4F46-A872-9D485CFF2611}.Release|x86.ActiveCfg = Release|Win32
+		{5D2D4FFB-F3E8-4F46-A872-9D485CFF2611}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
