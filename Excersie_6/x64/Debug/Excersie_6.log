@@ -1,3 +1,4 @@
-﻿  main.cpp
-C:\Users\s171627\Desktop\craig git\WarmUps\Excersie_6\main.cpp(9,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Excersie_6.vcxproj -> C:\Users\s171627\Desktop\craig git\WarmUps\x64\Debug\Excersie_6.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Excersie_6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\s171627\Desktop\Git Craig\WarmUps\Excersie_6\main.cpp(9,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Excersie_6.vcxproj -> C:\Users\s171627\Desktop\Git Craig\WarmUps\x64\Debug\AIE_6_Letter_Shifting.exe
