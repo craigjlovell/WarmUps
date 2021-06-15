@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\s171627\Desktop\Craig  Git dont delete\WarmUps\AIE_8_Remove_The_Last_Vowel\main.cpp(21,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AIE_8_Remove_The_Last_Vowel.vcxproj -> C:\Users\s171627\Desktop\Craig  Git dont delete\WarmUps\x64\Debug\AIE_8_Remove_The_Last_Vowel.exe
